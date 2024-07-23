@@ -1,5 +1,5 @@
 # SpamCLassification
-e will focus on both: building a machine learning model for spam SMS message classification, then create an API for the model, using Flask, the Python micro framework for building web applications.This API allows us to utilize the predictive capabilities through HTTP requests. Let’s get started!
+It will focus on both: building a machine learning model for spam SMS message classification, then create an API for the model, using Flask, the Python micro framework for building web applications.This API allows us to utilize the predictive capabilities through HTTP requests. Let’s get started!
 
 ML Model Building
 The data is a collection of SMS messages tagged as spam or ham that can be found here. First, we will use this dataset to build a prediction model that will accurately classify which texts are spam.
